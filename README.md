@@ -1,3 +1,3 @@
 This is a git test Repo
-I am the master
+I am Aditya Arun
 Tested out branches
